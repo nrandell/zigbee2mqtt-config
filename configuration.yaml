@@ -12,11 +12,25 @@ advanced:
   cache_state: true
   log_directory: data/log/%TIMESTAMP%
   report: true
-  network_key: [11, 33, 5, 17, 9, 11, 13, 15, 21, 2, 4, 3, 8, 10, 12, 13]
-# Optional: networkmap options
+  network_key:
+    - 11
+    - 33
+    - 5
+    - 17
+    - 9
+    - 11
+    - 13
+    - 15
+    - 21
+    - 2
+    - 4
+    - 3
+    - 8
+    - 10
+    - 12
+    - 13
 map_options:
   graphviz:
-    # Colors to be used in the graphviz network map
     colors:
       fill:
         enddevice: '#fff8ce'
@@ -29,5 +43,4 @@ map_options:
       line:
         active: '#009900'
         inactive: '#994444'
-
 devices: devices.yaml
