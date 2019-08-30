@@ -1,18 +1,30 @@
 '0x0015bc002f0069b4':
-  friendly_name: Aurora_Smart_Plug_4
+  friendly_name: Ensuite_Shower
   retain: true
 '0x0015bc002f0068ea':
-  friendly_name: Aurora_Smart_Plug_1
+  friendly_name: Nick_Bedside_Lamp
   retain: true
 '0x14b457fffe4afaa9':
-  friendly_name: Innr_Plug_1
+  friendly_name: Hallway_Table_Lamp
   retain: true
 '0xccccccfffe6e2bb3':
-  friendly_name: Samsung_Smart_Plug_2019_1
+  friendly_name: Home_Automation_Plug
   retain: true
 '0x0015bc002f00676a':
-  friendly_name: Aurora_Smart_Plug_2
+  friendly_name: Freezer_Plug
   retain: true
 '0x0015bc002f00677d':
-  friendly_name: Aurora_Smart_Plug_3
+  friendly_name: Garage_Plug
+  retain: true
+'0xccccccfffe6a9a7d':
+  friendly_name: Hayley_Computer_Plug
+  retain: true
+'0xccccccfffe6a9bd5':
+  friendly_name: Lounge_Media
+  retain: true
+'0xccccccfffe6a9bc8':
+  friendly_name: Hayley_Bedside_Lamp
+  retain: true
+'0xccccccfffe6e37a8':
+  friendly_name: Garage_Switch_Plug
   retain: true
