@@ -7,7 +7,7 @@ serial:
   port: /dev/ttyACM0
   disable_led: true
 advanced:
-  log_level: debug
+  log_level: info
   channel: 20
   cache_state: true
   log_directory: data/log/%TIMESTAMP%

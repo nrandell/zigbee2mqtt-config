@@ -28,3 +28,18 @@
 '0xccccccfffe6e37a8':
   friendly_name: Garage_Switch_Plug
   retain: true
+'0x286d97000107366c':
+  friendly_name: House_Front_Sensor
+  retain: true
+'0x14b457fffecbfe9c':
+  friendly_name: Loft_Switch_Bathroom_Shower_Plug
+  retain: true
+'0xccccccfffe6e3494':
+  friendly_name: Shower_Plug
+  retain: true
+'0x286d970001073664':
+  friendly_name: Kitchen_Back_Sensor
+  retain: true
+'0x286d970001073694':
+  friendly_name: Lounge_Sensor
+  retain: true
